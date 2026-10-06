@@ -10,6 +10,8 @@ Mascota: No
 Portatil: hp
 Bateria: 20%
 
+Modificacion realizada desde GitHub
+
 
 
 
