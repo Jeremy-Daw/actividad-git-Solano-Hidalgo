@@ -4,6 +4,7 @@ Autor: Jeremy Hidalgo Solano
 
 Edad: 20
 Nacionalidad: Dominicana
+Sexo: Hombre
 
 
 
