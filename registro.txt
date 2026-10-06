@@ -3,6 +3,8 @@ Actividad de Git
 Autor: Jeremy Hidalgo Solano
 
 Edad: 20
+Nacionalidad: Dominicana
+
 
 
 Versión: 1
