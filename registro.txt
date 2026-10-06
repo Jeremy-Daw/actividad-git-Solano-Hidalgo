@@ -8,6 +8,7 @@ Sexo: Hombre
 Comida Favorita: Arroz con pollo
 Mascota: No
 Portatil: hp
+Bateria: 20%
 
 
 
