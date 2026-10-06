@@ -1,0 +1,5 @@
+Actividad de Git
+
+Autor: Jeremy Hidalgo Solano
+
+Versión: 1
