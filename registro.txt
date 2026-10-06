@@ -2,4 +2,7 @@ Actividad de Git
 
 Autor: Jeremy Hidalgo Solano
 
+Edad: 20
+
+
 Versión: 1
