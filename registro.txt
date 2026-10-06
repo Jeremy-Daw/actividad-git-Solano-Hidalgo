@@ -6,6 +6,7 @@ Edad: 20
 Nacionalidad: Dominicana
 Sexo: Hombre
 Comida Favorita: Arroz con pollo
+Mascota: No
 
 
 
