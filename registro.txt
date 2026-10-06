@@ -7,6 +7,8 @@ Nacionalidad: Dominicana
 Sexo: Hombre
 Comida Favorita: Arroz con pollo
 Mascota: No
+Portatil: hp
+
 
 
 
